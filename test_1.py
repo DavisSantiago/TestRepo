@@ -8,7 +8,7 @@ def davis_test():
 
 
 def colors():
-    print("blue")
+    print("azul")
 
 
 def numbers():

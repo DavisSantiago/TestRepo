@@ -13,8 +13,7 @@ def colors():
 
 def numbers():
     print("1")
-    print("3")
-    print("6")
+    print("4")
 
 
 if __name__ == '__main__':
